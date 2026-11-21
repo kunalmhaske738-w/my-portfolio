@@ -1,6 +1,6 @@
 export const personalData = {
   name: "KUNAL AJINATH MHASKE",
-  profile: '/image/kunal_github_profile_under_1mb.jpg',
+  profile: '/my-portfolio/image/kunal_github_profile_under_1mb.jpg',
   designation: "Aspiring Software Developer",
   description: "Passionate Computer Science student with an interest in software development, web technologies, and building innovative solutions. Always eager to learn, explore, and grow.",
   email: 'kunalmhaske738@gmail.com',
