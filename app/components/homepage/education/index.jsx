@@ -49,7 +49,7 @@ function Education() {
 <GlowCard identifier={`education-${education.id}`}>
                     <div className="p-3 relative text-white">
                       <Image
-                        src="/blur-23.svg"
+                        src="/my-portfolio/blur-23.svg"
                         alt="Hero"
                         width={1080}
                         height={200}
